@@ -1,0 +1,68 @@
+
+
+.button {
+    
+    border: none;
+    color: white;
+    padding: 1% 2%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: rgb(91, 245, 250); 
+    color: black; 
+    border:solid 3px black;
+    border-radius: 8px;
+   
+  }
+  
+  .button1:hover {
+    background-color: #555555;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: rgb(91, 245, 250); 
+    color: black; 
+    border:solid 3px black;
+    border-radius: 8px;
+   
+  }
+  
+  .button2:hover {
+    background-color: #555555;
+    color: white;
+  }
+  
+  .button3 {
+    background-color: rgb(91, 245, 250); 
+    color: black; 
+    border:solid 3px black;
+    border-radius: 8px;
+    
+  }
+  
+  .button3:hover {
+    background-color: #555555;
+    color: white;
+  }
+  
+  .button4 {
+    background-color: rgb(91, 245, 250);
+    color: black;
+    border:solid 3px black;
+    border-radius: 8px;
+    
+  }
+  
+  .button4:hover {
+    background-color: #555555;
+      color: white;
+    }
+  
