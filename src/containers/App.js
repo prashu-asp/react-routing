@@ -6,6 +6,7 @@ import { blogs } from '../components/blogs';
 import BlogsPage from '../components/blogsPage'
 import {Routes , Route} from 'react-router-dom'
 import Home from '../components/Home';
+import {OrderSummary} from '../components/ordersummary'
 
 class App extends React.Component {
     render() {
@@ -14,6 +15,7 @@ class App extends React.Component {
             <Routes>
                     <Route path='/' element={<Home />}></Route>
                     <Route path='/blogs' element={<BlogsPage />}></Route>
+                    <Route path='/order-summary' element={<OrderSummary />}></Route>
             </Routes>
             </div>
 
